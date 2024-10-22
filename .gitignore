@@ -1,0 +1,10 @@
+# .gitignore
+ 
+# Ignore environment variables file
+.env
+ 
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Node Modules
+node_modules/
